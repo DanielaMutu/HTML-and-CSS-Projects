@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> The benefits of flowers </title> 
+<meta charset="utf-8"
+</head>
+<p>Flowers for tea and health benefits </p>
+<body>
+
+<img src="Tea.webp">
+<a href="file:///C:/Users/danie/Documents/GitHub/HTML-and-CSS-Projects/Nature%20and%20health/Nature%20and%20health.html"> Nature and health</a>
+<main>
+<h1> There are over many species of plants around the world, beneficial to our body, bringing good health. </h1>
+<h3> Drinking flower tea can be one of the best treatments for indigestion, constipation,
+acid reflux and many other ailments related to the digestive system. </h3>
+</main>
+<h3> Some of the best flower teas to drink for digestion are peppermint, chrysanthemum, rose and ginger. </h3>
+<h3> Peppermint </h3> 
+<img src="Mint.jpeg">
+
+Peppermint can help improve digestion, freshen breath and improve concentration. 
+In addition, this mint has antibacterial properties and can improve allergy symptoms, headaches and blocked airways.
+<h3> Chrysanthemum </h3> 
+<img src="chrysanthemum.jpeg">
+
+Chrysanthemum tea helps lower blood pressure, cool the body, and reduce inflammation, all of which can help induce calmness. 
+The powerful antioxidants and minerals in the infusion can help your body regulate itself better and remove unnecessary stress hormones from your bloodstream.
+<h3> Rose petals </h3>
+<img src="Rose tea.jpeg">
+
+Rose petals contain polyphenols, antioxidants that work to protect your body from cell damage. 
+The polyphenols in rose tea have been shown to reduce the risk of heart disease, diabetes, obesity, and cognitive diseases.
+<h3> Ginger </h3>
+<img src="Ginger.jpeg">
+
+Ginger tea can have benefits for digestion, inflammation and the common cold.
+<nav>
+<a href="Assignment.html">Home</a>
+<a href="Nature and health.html">Tea Picture</a>
+</nav>
+ <a href="https://youtu.be/2R-rg-X1p3A">Video</a>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/2R-rg-X1p3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <blockquote>“The tea session is modeled after the silence of retreat;
+               a time to enjoy life far removed from daily existence.” – Sen Joo</blockquote>
+ 
+<footer>
+<p> <h6> Daniela Mutu 2023 </h6> </p>
+</footer>
+</body>
+
+</html>

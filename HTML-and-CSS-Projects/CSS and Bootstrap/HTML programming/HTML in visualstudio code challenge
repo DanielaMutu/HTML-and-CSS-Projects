@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta  charset ="utf-8">
+<title> 
+    Baked pumpkin cake</title>
+</head>
+
+<body>
+<h1>
+<p> &lt &lt Recipe Name:
+    Baked pumpkin cake &gt &gt </p>
+</h1>
+<!--This section is including food recipes examples-->
+<!--NAVIGATION -->
+<div>
+<ul><h3>
+<a href="#Presentation" id="link"><li>
+    Baked pumpkin cake presentation</li></a>
+<a href="#Ingredients" id="link"><li>Ingredients</li></a>
+<a href="#Cooking steps" id="link"><li>Cooking steps</li></a>
+<a href="#Gallery" id="link"><li>Gallery</li></a>
+</h3></ul>
+ </div>
+<!--END NAVIGATION -->
+
+<!-- Pumpkin cake presentation-->
+<body>
+<div id="Presentation">
+  <div>
+<h1>Presentation</h1>
+<p>I really like homemade checks.The baked pumpkin cake recipe has an absolutely spectacular taste!</p>
+  </div>
+</div>
+<!--END Pumpkin cake presentation-->
+
+<!--Ingredients-->
+<div id="Ingredients">
+<ul>
+<h1>Ingredients</h1>
+<h3>
+<li>  500 g baked pumpkin puree</li>
+<li>  500 g flour</li>
+<li>  200 g of sugar</li>
+<li>  3 medium egg</li>
+<li>  100 g of melted butter</li>
+<li>  100 ml of milk</li>
+<li>  1 packet of vanilla sugar</li>
+<li>  6 g of baking powder</li>
+<li>  1 pinch of salt</li>
+</h3>
+</ul>
+</div>
+<!--END Ingredients-->
+
+<!--Cooking steps-->
+<div id="Cooking steps">
+<h1>Cooking steps</h1>
+<p>Baked pumpkin cake - Method of preparation
+    Cut the pumpkin into slices and place in a baking tray lined with baking paper.
+    We bake it in the oven preheated to 200°C and leave it until it softens perfectly.
+    We take it out of the oven and after it has cooled a little, we mash it until we get a fine puree.
+    Put the egg yolks, half the sugar and vanilla in a bowl and mix with a spoon for about 2-3 minutes, 
+    until you get a homogeneous mixture.
+    Add the melted and cooled butter over the cold pumpkin puree and a pinch of salt and mix until homogenized, 
+    milk can also be added to this composition.
+    Beat the egg whites separately with the other half of the sugar until they harden and add them to the pure pumpkin.
+    We sift the flour mixed with the baking powder, add it to the dough in 3 steps and mix.
+    The final consistency of the pumpkin cake batter is denser and I think this is due to the type of pumpkin I used.
+    We put the dough in the form coated with butter and flour, carefully level the surface and bake it in the oven preheated 
+    to 170°C for 30-40 minutes.
+    Before taking it out of the oven, check if it is cooked and poke it with a toothpick. 
+    If it comes out clean, the cake is ready, if it comes out a little wet, bake it for another 5 minutes.</p>
+</div>
+<!--END Cooking steps-->
+
+<!--GALERY-->
+<section>
+<div id="Gallery"> 
+<h2> My photo gallery  </h2>
+</div>
+<!--photo container 1-->
+<div>
+  <div>
+  <img src="./Images/Pumpkin cake.jpg" alt="">
+     <div>
+	  <h1>Pumpkin cake</h1>
+	  </div>
+	</div>
+</div>	
+
+</section>
+
+<!--END GALERY-->
+
+<!--Extra details-->
+
+<details>
+<Summary>
+<li>Author: Daniela Mutu</li>
+<li>Published: 30/05/2023</li>
+<li>Preparation time: 20 min</li>
+<li>Cooking time: 30-45min</li>
+<li>Total time: 1 hour & 10 minutes</li>
+</Summary>
+</em>
+</ul>
+<article>
+<!--End Extra details-->
+
+<!--Health benefits of pumpkin-->
+<a href="https://www.healthline.com/nutrition/pumpkin#TOC_TITLE_HDR_2" target="_blank">Health benefits of pumpkin</a>
+
+</body>
+</html>

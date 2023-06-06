@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> Teas_Video </title> 
+<meta charset="utf-8">
+</head>
+<body>
+
+<<nav>
+<a href="Assignment.html">Home</a>
+<a href="Nature and health.html">Tea Picture</a>
+<a href="https://youtu.be/2R-rg-X1p3A">Video</a>
+</nav>
+ <h1>A summary of the few beneficial teas</h1>
+ <p> This video is an example of tea benefits to our body: <a href="https://youtu.be/B-u11CnvnZg">Link</a></p>
+ 
+</body>
+
+</html>
